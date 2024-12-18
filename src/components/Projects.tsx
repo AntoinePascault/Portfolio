@@ -183,6 +183,60 @@ L'application REGIS a pour but d'aider les utilisateurs à préparer et suivre d
 - Yamato Nief
 - Antoine Pascault
 `,
+  },
+  {
+    title: "Rando Réunion",
+    description: "Application web de gestion de randonnées à la Réunion",
+    image: "/Portfolio/images/rando.png",
+    technologies: ["React", "TypeScript", "C#", "ASP.NET Core", "SQL Server"],
+    readme: `# Rando Réunion - Application de Gestion de Randonnées
+
+## Description de l'application
+
+L'application Rando Réunion a pour but d'aider les utilisateurs à préparer et suivre des randonnées à la Réunion. Elle permet de créer des itinéraires de randonnée, de planifier les hébergements et repas à l'avance, d'estimer le budget et d'identifier des points d'intérêt le long du parcours.
+
+## Fonctionnalités
+
+- Planifier et modifier une randonnée
+- Ajouter des étapes et les modifier :
+  - Ajouter un lien VisioRando
+  - Ajouter et modifier des repas
+  - Ajouter et modifier des hébergements
+  - Ajouter et modifier des budgets
+  - Ajouter et modifier des points d'intérêt
+
+## Structure technique
+
+### Backend (API)
+- API REST développée en C# avec ASP.NET Core
+- Tests unitaires avec le framework de test intégré
+- Architecture en couches (Controllers, Services, Models)
+- Base de données relationnelle
+
+### Frontend (Client)
+- Interface utilisateur en React/TypeScript
+- Tests unitaires avec Jest
+- Gestion des dépendances avec npm
+- Interface responsive et moderne
+
+## Captures d'écran
+
+### Page d'accueil
+![Page d'accueil](/Portfolio/images/home.jpg)
+
+### Page de randonnée
+![Page de randonnée](/Portfolio/images/hike.jpg)
+
+### Page d'étape
+![Page d'étape](/Portfolio/images/step.jpg)
+
+### Page de budget
+![Page de budget](/Portfolio/images/budget.jpg)
+
+## Équipe de projet
+
+- Antoine Pascault
+`,
   }
 ];
 
