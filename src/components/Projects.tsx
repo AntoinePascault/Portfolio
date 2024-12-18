@@ -50,7 +50,7 @@ const projects: Project[] = [
   {
     title: "ScorBUT",
     description: "Un système de récompenses ludique pour les étudiants de l'IUT, similaire aux trophées des jeux vidéo. Les étudiants peuvent gagner des badges en participant à des événements ou en réalisant des accomplissements académiques.",
-    image: "/images/ScorBUT.jpg",
+    image: "/Portfolio/images/ScorBUT.jpg",
     technologies: ["PHP", "JavaScript", "MySQL", "HTML", "CSS", "Bootstrap", "PHPUnit", "Jest"],
     readme: `# ScorBUT - Système de Récompenses Étudiant
 
@@ -64,27 +64,27 @@ ScorBUT est une plateforme web interactive qui rend l'expérience étudiante plu
 ## Aperçu des fonctionnalités
 
 ### Page de connexion
-![Page de connexion](/images/Connexion.png)
+![Page de connexion](/Portfolio/images/Connexion.png)
 Interface de connexion sécurisée pour accéder à votre espace personnel.
 
 ### Liste des utilisateurs
-![Page des utilisateurs](/images/Users.png)
+![Page des utilisateurs](/Portfolio/images/Users.png)
 Vue d'ensemble de tous les utilisateurs de la plateforme.
 
 ### Profil personnel
-![Page de profil](/images/Profil.png)
+![Page de profil](/Portfolio/images/Profil.png)
 Visualisez vos accomplissements et personnalisez votre profil.
 
 ### Galerie des trophées
-![Page des trophées](/images/Trophies.png)
+![Page des trophées](/Portfolio/images/Trophies.png)
 Découvrez tous les trophées disponibles à débloquer.
 
 ### Détails des trophées
-![Page d'un trophée](/images/Trophy.png)
+![Page d'un trophée](/Portfolio/images/Trophy.png)
 Informations détaillées sur chaque trophée et conditions d'obtention.
 
 ### Attribution des récompenses
-![Page d'attribution](/images/Attribuate.png)
+![Page d'attribution](/Portfolio/images/Attribuate.png)
 Interface d'attribution des trophées pour les gestionnaires.
 
 ## Comment ça marche ?
@@ -124,12 +124,13 @@ Ce projet a été réalisé par :
 - Pierre VANHOVE
 - Antoine PASCAULT
 - Dorian VIVOT
-- Axel BURILLIER`
+- Axel BURILLIER
+`,
   },
   {
     title: "REGIS",
     description: "Application web de gestion de randonnées itinérantes permettant de planifier des itinéraires sur plusieurs jours, gérer les hébergements, repas, budgets et points d'intérêt. Mise à jour en temps réel des informations pendant la randonnée.",
-    image: "/images/REGIS.jpg",
+    image: "/Portfolio/images/REGIS.jpg",
     technologies: ["C#", "ASP.NET Core", "React", "HTML", "CSS", "Jest", "SQL"],
     readme: `# REGIS - Application de Gestion de Randonnées Itinérantes
 
@@ -164,23 +165,24 @@ L'application REGIS a pour but d'aider les utilisateurs à préparer et suivre d
 ## Captures d'écran
 
 ### Page d'accueil
-![Page d'accueil](/images/home.jpg)
+![Page d'accueil](/Portfolio/images/home.jpg)
 
 ### Page de randonnée
-![Page de randonnée](/images/hike.jpg)
+![Page de randonnée](/Portfolio/images/hike.jpg)
 
 ### Page d'étape
-![Page d'étape](/images/step.jpg)
+![Page d'étape](/Portfolio/images/step.jpg)
 
 ### Page de budget
-![Page de budget](/images/budget.jpg)
+![Page de budget](/Portfolio/images/budget.jpg)
 
 ## Équipe de projet
 
 - Marion Raynal
 - Ezai Comtois
 - Yamato Nief
-- Antoine Pascault`
+- Antoine Pascault
+`,
   }
 ];
 
